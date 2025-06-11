@@ -1,0 +1,7 @@
+def print_to_terminal(name):
+    print(name[-10])
+
+name = "gratulálok"
+
+print_to_terminal(name)
+
